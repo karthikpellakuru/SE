@@ -25,9 +25,12 @@ def subtract(x, y):
     return x - y
 def root(x,y):
     return x*x,y*y
+def multi(x,y):
+    return x*y
 print("Addition = ",x+y)
 print("Subtraction =",x-y)
 print("Square root = ",x*x,y*y)
+print("Multiplication =", x*y)
 
 -----OUTPUT-----
 Addition =  5
