@@ -14,3 +14,24 @@ Addition =  5
 Subtraction = 1
 
 Process finished with exit code 0
+
+-- Adding SQUARE ROOT---
+# calculator.py
+x=3
+y=2
+def add(x, y):
+   return x + y
+def subtract(x, y):
+    return x - y
+def root(x,y):
+    return x*x,y*y
+print("Addition = ",x+y)
+print("Subtraction =",x-y)
+print("Square root = ",x*x,y*y)
+
+-----OUTPUT----
+Addition =  5
+Subtraction = 1
+Square root =  9 4
+
+Process finished with exit code 0
