@@ -29,7 +29,7 @@ print("Addition = ",x+y)
 print("Subtraction =",x-y)
 print("Square root = ",x*x,y*y)
 
------OUTPUT----
+-----OUTPUT-----
 Addition =  5
 Subtraction = 1
 Square root =  9 4
